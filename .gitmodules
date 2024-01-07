@@ -1,0 +1,6 @@
+[submodule "hamburgertox"]
+	path = hamburgertox
+	url = https://github.com/nethish/hamburgertox
+[submodule "previewcard"]
+	path = previewcard
+	url = https://github.com/nethish/previewcard
